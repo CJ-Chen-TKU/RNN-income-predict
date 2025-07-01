@@ -1,6 +1,6 @@
 # Tabular Binary Classifier with PyTorch and Streamlit
 
-🧠 Key Learning Objectives
+# 🧠 Key Learning Objectives
 Data Preprocessing
 Label encode categorical features
 Standardize continuous features
@@ -28,6 +28,15 @@ Trains a multi-layer feedforward neural network with dropout and batch normaliza
 Supports real-time single-row predictions with automatic preprocessing
 Runs efficiently on CPU or GPU
 This app is ideal for users who want to quickly build a deep learning model on tabular data without extensive manual feature engineering or coding.
+
+# 📁 Sample Dataset
+You can download a sample dataset from Kaggle to test this app:
+Adult Income Dataset
+🔗 https://www.kaggle.com/datasets/uciml/adult-census-income
+Make sure the CSV file includes:
+One target column (e.g. income)
+Categorical columns (e.g. workclass, education, marital-status)
+Numerical columns (e.g. age, hours-per-week)
 
 # Usage Instructions
 1. Upload Your CSV File
