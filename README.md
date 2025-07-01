@@ -1,4 +1,4 @@
-# Tabular Binary Classifier with PyTorch and Streamli
+# Tabular Binary Classifier with PyTorch and Streamlit
 
 🧠 Key Learning Objectives
 Data Preprocessing
